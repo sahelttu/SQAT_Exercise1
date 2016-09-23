@@ -53,3 +53,8 @@ CompilationAction 1474633836166 BowlingGame.java
 CompilationAction 1474633993247 BowlingGame.java
 FileOpenedAction 1474634091137 GildedRoseTest.java 3644 10 55 9
 EditAction 1474634378742 Frame.java 881 6 10 0
+FileOpenedAction 1474634498388 SudokuVerifierTest.java 1808 5 13 4
+RefactoringAction 1474634617413 TestBowling.java RENAME test_Strike()=>void test_GetStrike() METHOD
+UnitTestCaseAction 1474634742148 TestBowling.java FAIL
+UnitTestSessionAction 1474634742149 TestBowling.java FAIL
+EditAction 1474634808860 TestBowling.java 332 2 5 1

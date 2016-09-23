@@ -10,8 +10,11 @@ public class TestBowling {
 	}
 	
 	@Test
-	public void test_Strike() throws BowlingException{
-	BowlingGame game= new BowlingGame();
+	public void test_GetStrike(){
+	Frame game = new Frame(0, 0);
+	game.isStrike();
+	int firstThrow = 10;
+	assertEquals("It's a strike", firstThrow);
 	}
 	
 }
