@@ -1,0 +1,2 @@
+FileOpenedAction 1474630511250 Frame.java 671 6 7 0
+EditAction 1474631407744 Frame.java 713 6 8 0
