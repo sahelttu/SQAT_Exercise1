@@ -14,7 +14,7 @@ public class TestBowling {
 	Frame game = new Frame(0, 0);
 	game.isStrike();
 	int firstThrow = 10;
-	assertTrue(true, false, game.isStrike());
+	assertTrue( game.isStrike());
 	}
 	
 }
