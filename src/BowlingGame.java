@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
-//Finish time:
-//ID:
+//Finish time: 16:40
+//ID: 145
 
 public class BowlingGame {
 	//a bowling game is made of (at least) 10 frames
@@ -22,9 +22,7 @@ public class BowlingGame {
 	// Sets the bonus throws at the end of the game
 	public void setBonus(int firstThrow, int secondThrow) {
 		//to be implemented
-		if(i=10){
-			
-		}
+		
 	}
 	
 	// Returns the game score
