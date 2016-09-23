@@ -15,7 +15,7 @@ public class BowlingGame {
 	public void addFrame(Frame frame){
 		//to be implemented
 		for(int i=0 ; i<=8 ; i++){
-			
+		frames.add(frame);
 		}
 	}
 	
