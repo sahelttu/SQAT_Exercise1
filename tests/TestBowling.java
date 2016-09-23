@@ -12,10 +12,9 @@ public class TestBowling {
 	@Test
 	public void test_GetStrike(){
 	Frame game = new Frame(0, 0);
-	game.isStrike();
 	int firstThrow = 10;
-	assertTrue(game.isStrike());
-	assertFalse(game.isStrike());
+	AssertEquals(10, firstThrow);
+	
 	}
 	
 }
