@@ -12,3 +12,10 @@ CompilationAction 1474631505968 Frame.java
 CompilationAction 1474631516183 Frame.java
 CompilationAction 1474631516339 Frame.java
 EditAction 1474631526046 Frame.java 717 6 8 0
+CompilationAction 1474631526139 Frame.java
+CompilationAction 1474631598008 Frame.java
+FileOpenedAction 1474631627173 TestBowling.java 165 1 1 0
+RefactoringAction 1474631646725 TestBowling.java ADD void test_Strike() METHOD
+FileOpenedAction 1474631675380 SudokuVerifierTest.java 1808 5 13 4
+FileOpenedAction 1474631706641 StringCalculatorTest.java 162 1 1 0
+EditAction 1474631744212 TestBowling.java 244 2 1 0
