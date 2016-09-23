@@ -13,7 +13,7 @@ public class TestBowling {
 	public void test_GetStrike(){
 	Frame game = new Frame(0, 0);
 	game.isStrike();
-	int firstThrow == 10;
+	int firstThrow = 10;
 	assertTrue(game.isStrike());
 	}
 	
