@@ -11,7 +11,7 @@ public class TestBowling {
 	
 	@Test
 	public void test_Strike() throws BowlingException{
-	getFirstThrow
+	BowlingGame game= new BowlingGame();
 	}
 	
 }

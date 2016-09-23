@@ -30,3 +30,12 @@ RefactoringAction 1474632042589 TestBowling.java RENAME <initializer /1>=>void B
 RefactoringAction 1474632044102 TestBowling.java RENAME Bowling()=>void BowlingExc() METHOD
 RefactoringAction 1474632046117 TestBowling.java RENAME BowlingExc()=>void BowlingException() METHOD
 EditAction 1474632058807 TestBowling.java 250 2 1 0
+CompilationAction 1474632059063 TestBowling.java
+CompilationAction 1474632059063 TestBowling.java
+CompilationAction 1474632059064 TestBowling.java
+FileOpenedAction 1474632081537 SudokuVerifierTest.java 1808 5 13 4
+FileOpenedAction 1474632162929 SudokuVerifier.java 1493 4 6 0
+CompilationAction 1474632259047 TestBowling.java
+CompilationAction 1474632259049 TestBowling.java
+CompilationAction 1474632259050 TestBowling.java
+EditAction 1474632361885 Frame.java 718 6 8 0
