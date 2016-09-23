@@ -28,6 +28,6 @@ public class BowlingGame {
 	public int score(){
 		//to be implemented: should return game score 
 		
-		return score;
+		return 0;
 	}
 }

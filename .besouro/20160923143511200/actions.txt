@@ -49,3 +49,7 @@ CompilationAction 1474633046595 BowlingGame.java
 EditAction 1474633096165 BowlingGame.java 663 4 2 0
 EditAction 1474633570780 BowlingGame.java 680 4 2 0
 EditAction 1474633835930 BowlingGame.java 688 4 2 0
+CompilationAction 1474633836166 BowlingGame.java
+CompilationAction 1474633993247 BowlingGame.java
+FileOpenedAction 1474634091137 GildedRoseTest.java 3644 10 55 9
+EditAction 1474634378742 Frame.java 881 6 10 0
