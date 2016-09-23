@@ -14,7 +14,7 @@ public class TestBowling {
 	Frame game = new Frame(0, 0);
 	game.isStrike();
 	int firstThrow = 10;
-	assertEquals("It's a strike", firstThrow);
+	assertEquals(10, firstThrow);
 	}
 	
 }

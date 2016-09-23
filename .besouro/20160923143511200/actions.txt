@@ -58,3 +58,6 @@ RefactoringAction 1474634617413 TestBowling.java RENAME test_Strike()=>void test
 UnitTestCaseAction 1474634742148 TestBowling.java FAIL
 UnitTestSessionAction 1474634742149 TestBowling.java FAIL
 EditAction 1474634808860 TestBowling.java 332 2 5 1
+UnitTestCaseAction 1474634814276 TestBowling.java FAIL
+UnitTestSessionAction 1474634814277 TestBowling.java FAIL
+EditAction 1474634825985 TestBowling.java 319 2 5 1
