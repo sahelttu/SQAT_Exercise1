@@ -14,7 +14,9 @@ public class BowlingGame {
 	// adds a frame to the game
 	public void addFrame(Frame frame){
 		//to be implemented
-		for(int i=0 ; i<=9 ; i++)
+		for(int i=0 ; i<=8 ; i++){
+			
+		}
 	}
 	
 	// Sets the bonus throws at the end of the game
