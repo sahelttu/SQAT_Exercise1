@@ -19,3 +19,14 @@ RefactoringAction 1474631646725 TestBowling.java ADD void test_Strike() METHOD
 FileOpenedAction 1474631675380 SudokuVerifierTest.java 1808 5 13 4
 FileOpenedAction 1474631706641 StringCalculatorTest.java 162 1 1 0
 EditAction 1474631744212 TestBowling.java 244 2 1 0
+CompilationAction 1474631745442 TestBowling.java
+CompilationAction 1474631745442 TestBowling.java
+CompilationAction 1474631833638 TennisGame.java
+FileOpenedAction 1474631840535 TennisGame.java 711 4 4 0
+FileOpenedAction 1474631903225 TennisGameTest.java 5301 12 95 10
+CompilationAction 1474631925920 TestBowling.java
+RefactoringAction 1474632039575 TestBowling.java RENAME test_Strike()=>void test_Strike FIELD
+RefactoringAction 1474632042589 TestBowling.java RENAME <initializer /1>=>void Bowling() METHOD
+RefactoringAction 1474632044102 TestBowling.java RENAME Bowling()=>void BowlingExc() METHOD
+RefactoringAction 1474632046117 TestBowling.java RENAME BowlingExc()=>void BowlingException() METHOD
+EditAction 1474632058807 TestBowling.java 250 2 1 0

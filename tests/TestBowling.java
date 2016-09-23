@@ -10,8 +10,8 @@ public class TestBowling {
 	}
 	
 	@Test
-	public void test_Strike(){
-		BowlingGame = new BowlingGame;
+	public void test_Strike() throws BowlingException{
+	getFirstThrow
 	}
 	
 }
