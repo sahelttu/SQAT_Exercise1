@@ -1,2 +1,14 @@
 FileOpenedAction 1474630511250 Frame.java 671 6 7 0
 EditAction 1474631407744 Frame.java 713 6 8 0
+CompilationAction 1474631407843 Frame.java
+CompilationAction 1474631478903 Frame.java
+CompilationAction 1474631479057 Frame.java
+CompilationAction 1474631491367 Frame.java
+CompilationAction 1474631491511 Frame.java
+CompilationAction 1474631499742 Frame.java
+CompilationAction 1474631499900 Frame.java
+CompilationAction 1474631505797 Frame.java
+CompilationAction 1474631505968 Frame.java
+CompilationAction 1474631516183 Frame.java
+CompilationAction 1474631516339 Frame.java
+EditAction 1474631526046 Frame.java 717 6 8 0
